@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00FF9D&height=200&section=header&text=Sunny%20Rai&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20-%20Web3%20Builder%20-%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00FF9D&height=180&section=header&text=SUNNY%20RAI&fontSize=50&fontColor=00FF9D&fontAlignY=42&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Building+on-chain+marketplaces;Breaking+networks+with+Kali+Linux+(ethically);Shipping+AgriChain+%E2%80%94+blockchain+for+farmers;TypeScript+%E2%80%A2+Solidity+%E2%80%A2+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00FF9D&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=root%40sunny%3A~%24+whoami;%3E+full-stack+dev+%2F%2F+web3+builder+%2F%2F+sec+researcher;%3E+access+granted+..." alt="Typing SVG" />
 
 **B.Tech CSE @ Ghaziabad, IN**
 
@@ -41,7 +41,6 @@ When I'm not writing Solidity or TypeScript, I'm poking holes in networks with K
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
@@ -50,9 +49,25 @@ When I'm not writing Solidity or TypeScript, I'm poking holes in networks with K
 **Backend**
 
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 **Blockchain**
@@ -134,6 +149,6 @@ When I'm not writing Solidity or TypeScript, I'm poking holes in networks with K
 
 <img src="https://komarev.com/ghpvc/?username=Ritwikcp-ctrl&style=for-the-badge&color=0A66C2" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:0A66C2&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9D,100:0D1117&height=100&section=footer" />
 
 </div>
