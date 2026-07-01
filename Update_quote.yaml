@@ -1,0 +1,32 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (~05:30 AM IST)
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-quote:
+    runs-on: kali-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update quote in README
+        run: node scripts/update-quote.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update daily quote"
+          git push
