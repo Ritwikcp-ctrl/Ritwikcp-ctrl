@@ -1,58 +1,72 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,100:0D1117&height=180&section=header&text=SUNNY&fontSize=60&fontColor=E8D9B5&fontAlignY=50&desc=SOFTWARE%20ENGINEER%20%E2%80%94%20BLOCKCHAIN%20%2F%20SECURITY&descAlignY=75&descSize=14&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=170&section=header&text=whoami:%20sunny&fontSize=45&fontColor=00FF41&fontAlignY=45&desc=backend%20engineer%20//%20blockchain%20engineer%20//%20hacker%20//%20entrepreneur&descAlignY=70&descSize=13&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-<sub><i>"Understand the system before you trust it."</i></sub>
-</div>
-
-<br/>
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  B.Tech Computer Science  ·  Ghaziabad, India                 │
-│  Full-Stack Development  ·  Web3 / Blockchain  ·  Cyber Sec   │
-└──────────────────────────────────────────────────────────────┘
+```bash
+sunny@root:~$ cat introduction.txt
 ```
 
+```
+> booting profile...
+> access granted.
+
+I don't just write code — I take systems apart to understand
+how they fail, then build the ones that don't.
+
+Backend by discipline. Blockchain by conviction.
+Security by obsession. Founder by nature.
+
+If it has an API, I'll map it.
+If it has a network stack, I'll probe it.
+If it has a market gap, I'll build the thing that fills it.
+
+> status: building AgriChain
+> mode: production, not prototype
+```
+
 <br/>
 
-### 01 — Currently
-
-I build systems end to end — from the smart contract to the pixel — and I break them on purpose before someone else does it for free. Most of what's below was built to be *used*, not demoed.
-
-**→ AgriChain**
-A blockchain platform removing the middleman between farmer and trader.
-On-chain settlement · live price analytics · peer-to-peer tool rentals · decentralized governance for elected agricultural bodies.
-`Next.js` `TypeScript` `Solidity` `Solana` `PostgreSQL`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root+access+%3A+granted;compiling+ideas+into+production+code;decentralizing+one+system+at+a+time;scanning...+vulnerabilities+found+%3A+0" />
 
 <br/>
 
-### 02 — Stack
+### `~/currently`
+
+**AgriChain** — decentralizing the agriculture supply chain. On-chain settlement, live market analytics, peer-to-peer tool rentals, and DAO-style governance for elected agri-bodies. Built to run in production, not in a slide deck.
+
+```
+stack: Next.js · TypeScript · Solidity · Solana · PostgreSQL
+```
+
+<br/>
+
+### `~/skills`
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Engineering**
 ```
+[ BACKEND ]
+────────────
 TypeScript
-Next.js / React
 Node.js
 PostgreSQL
+Next.js / React
 Tailwind CSS
 ```
 
 </td>
 <td valign="top" width="33%">
 
-**Web3**
 ```
+[ BLOCKCHAIN ]
+────────────
 Solidity
 Ethereum
 Solana
@@ -63,13 +77,14 @@ Wallet Integration
 </td>
 <td valign="top" width="33%">
 
-**Security**
 ```
+[ OFFENSIVE SEC ]
+────────────
 Kali Linux
 Nmap · Gobuster
 Burp Suite · sqlmap
 aircrack-ng
-Applied Cryptography
+Cryptography
 ```
 
 </td>
@@ -78,34 +93,41 @@ Applied Cryptography
 
 <br/>
 
-### 03 — Practice
+### `~/exploits_logged`
 
-Security isn't theoretical here. Recent work includes live WPA handshake capture and packet injection on isolated hardware, structured through TryHackMe's penetration-testing pathway toward HackTheBox and, eventually, CVE-grade research.
-
-<br/>
-
-### 04 — Signal
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=E8D9B5&icon_color=E8D9B5&text_color=8B949E" height="150"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=E8D9B5&fire=E8D9B5&currStreakLabel=E8D9B5&sideLabels=8B949E&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=8B949E" height="150"/>
-
-</div>
+```
+[+] WPA handshake captured — targeted client MAC via aireplay-ng -c
+[+] Packet injection confirmed on local hardware
+[+] Recon pipeline: nmap → gobuster → burp → sqlmap
+[+] Path: TryHackMe (Pre-Security → Jr Pentester) → HackTheBox → CVE research
+```
 
 <br/>
 
+### `~/stats`
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=E8D9B5)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E8D9B5)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-0D1117?style=flat-square&logo=tryhackme&logoColor=E8D9B5)](https://tryhackme.com/p/YOUR_PROFILE)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=8B949E" height="150"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=8B949E" height="150"/>
+
+</div>
+
+<br/>
+
+### `~/connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/YOUR_PROFILE)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=hackthebox&logoColor=00FF41)](https://app.hackthebox.com/profile/YOUR_ID)
 
 </div>
 
 <div align="center">
-<sub>Building in public. Breaking things responsibly.</sub>
+<sub><code>&gt; connection closed. session logged. see you in the next commit.</code></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,100:0D1117&height=60&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=60&section=footer" width="100%"/>
