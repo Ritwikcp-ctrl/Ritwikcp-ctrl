@@ -1,116 +1,39 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00FF9D&height=180&section=header&text=SUNNY%20RAI&fontSize=50&fontColor=00FF9D&fontAlignY=42&animation=twinkling" />
+<!-- ============ HEADER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1B263B&height=200&section=header&text=Sunny&fontSize=70&fontColor=D4AF37&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Web3%20%7C%20Cybersecurity&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00FF9D&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=root%40sunny%3A~%24+whoami;%3E+full-stack+dev+%2F%2F+web3+builder+%2F%2F+sec+researcher;%3E+access+granted+..." alt="Typing SVG" />
+<br/>
 
-**B.Tech CSE @ Ghaziabad, IN**
-
-<p>
-  <a href="https://linkedin.com/in/sunnyrai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/SUNNYRAI1374625" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/unique__3r" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=su30rai213@gamil.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+production-grade+software;Blockchain+%7C+Web+Security+%7C+Systems+Thinking;Currently+shipping+%E2%80%94+AgriChain)
 
 </div>
 
----
+<br/>
 
-### 🧠 About
+## About
 
-I build things that matter — from on-chain marketplaces to security tooling.
+I'm Sunny — a Computer Science engineer focused on building software that ships, not tutorials that sit in a folder. My work spans full-stack development, blockchain systems, and offensive security research, all grounded in a single principle: **understand the system before you trust it.**
 
-Currently shipping **AgriChain**: a blockchain platform cutting out middlemen between farmers and traders.
+I care about clean architecture, correct fundamentals, and code that survives contact with real users.
 
-When I'm not writing Solidity or TypeScript, I'm poking holes in networks with Kali Linux.
+<br/>
 
----
+## Currently Building
 
-### 🧰 Stack
+**AgriChain** — a blockchain-based agriculture platform removing middlemen from the farmer-to-trader supply chain: on-chain transactions, real-time price analytics, a peer-to-peer tool rental board, and a decentralized voting module — built on Next.js, TypeScript, and Ethereum/Solana smart contracts.
 
-**Frontend**
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</p>
+## Tech Stack
 
-**Backend**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-**DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-**Database**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-**Blockchain**
-
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-</p>
-
-**Security & Crypto**
-
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
-`SQLMap` · `Gobuster` · `Aircrack-ng` · `Cryptography`
-
----
-
-### 🌾 Currently Building — AgriChain
-
-> Blockchain-based agriculture platform eliminating the middlemen between farmers and traders
-
-| Module | Status |
-|--------|--------|
-| Direct Crop Marketplace | 🔨 In Progress |
-| Real-time Price Analytics | 🔨 In Progress |
-| Blockchain-recorded Transactions | 📋 Planned |
-| Peer-to-peer Tool Rental Board | 📋 Planned |
-| On-chain Voting (Agriculture Minister Elections) | 📋 Planned |
-
----
-
-### 📦 Other Projects
-
-**Luxury Portfolio** — Next.js + Three.js + GSAP · Dark 3D interactive developer portfolio
-
-**AKTU OneView** — Student portal clone with full auth and data scraping
-
----
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgres<div align="center">
 
 ### 🎓 Certs & Learning
 
@@ -151,4 +74,46 @@ When I'm not writing Solidity or TypeScript, I'm poking holes in networks with K
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9D,100:0D1117&height=100&section=footer" />
 
+</div>ql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37"/>
+<br/>
+<img src="https://img.shields.io/badge/Solidity-1B263B?style=for-the-badge&logo=solidity&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Ethereum-1B263B?style=for-the-badge&logo=ethereum&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Solana-1B263B?style=for-the-badge&logo=solana&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Kali_Linux-1B263B?style=for-the-badge&logo=kalilinux&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Git-1B263B?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+
 </div>
+
+<br/>
+
+## Security Practice
+
+Hands-on offensive security work across network and web layers — packet capture and injection, service enumeration, and vulnerability assessment using `aircrack-ng`, `nmap`, `gobuster`, `sqlmap`, and `Burp Suite`, practiced through TryHackMe and HackTheBox.
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=EAEAEA" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="165"/>
+
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+<a href="https://tryhackme.com/p/YOUR_PROFILE"><img src="https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=D4AF37"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:0A0A0A&height=100&section=footer" width="100%"/>
