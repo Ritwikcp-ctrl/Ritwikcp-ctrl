@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=170&section=header&text=whoami:%20sunny&fontSize=45&fontColor=00FF41&fontAlignY=45&desc=backend%20engineer%20//%20blockchain%20engineer%20//%20hacker%20//%20entrepreneur&descAlignY=70&descSize=13&descAlign=50&animation=fadeIn" width="100%"/>
@@ -93,14 +92,16 @@ Cryptography
 
 <br/>
 
-### `~/exploits_logged`
+### `~/quote_of_the_day`
 
+<!--QUOTE_START-->
 ```
-[+] WPA handshake captured — targeted client MAC via aireplay-ng -c
-[+] Packet injection confirmed on local hardware
-[+] Recon pipeline: nmap → gobuster → burp → sqlmap
-[+] Path: TryHackMe (Pre-Security → Jr Pentester) → HackTheBox → CVE research
+"I don't predict, I guarantee."
+                                              — Conor McGregor, MMA Fighter
 ```
+<!--QUOTE_END-->
+
+<sub>rotates daily — sourced from founders, mathematicians, scientists, MMA, and football greats</sub>
 
 <br/>
 
