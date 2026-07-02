@@ -1,30 +1,43 @@
+
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="sunny — hacker / backend engineer / blockchain engineer / entrepreneur"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=170&section=header&text=whoami:%20sunny&fontSize=45&fontColor=00FF41&fontAlignY=45&desc=backend%20engineer%20//%20blockchain%20engineer%20//%20hacker%20//%20entrepreneur&descAlignY=70&descSize=13&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-<sub><i>every system has a way in. my job is to find it before someone worse does.</i></sub>
-</div>
-
-<br/>
-<br/>
+```bash
+sunny@root:~$ cat introduction.txt
+```
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  B.Tech Computer Science  ·  Ghaziabad, India                 │
-│  Full-Stack Development  ·  Web3 / Blockchain  ·  Cyber Sec   │
-└──────────────────────────────────────────────────────────────┘
+> booting profile...
+> access granted.
+
+I don't just write code — I take systems apart to understand
+how they fail, then build the ones that don't.
+
+Backend by discipline. Blockchain by conviction.
+Security by obsession. Founder by nature.
+
+If it has an API, I'll map it.
+If it has a network stack, I'll probe it.
+If it has a market gap, I'll build the thing that fills it.
+
+> status: building AgriChain
+> mode: production, not prototype
 ```
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root+access+%3A+granted;compiling+ideas+into+production+code;decentralizing+one+system+at+a+time;scanning...+vulnerabilities+found+%3A+0" />
 
 <br/>
 
 ### `~/currently`
 
-**AgriChain** — decentralizing the agriculture supply chain. On-chain settlement, live market analytics, peer-to-peer tool rentals, and DAO-style governance for elected agricultural bodies. Built to run in production, not in a slide deck.
+**AgriChain** — decentralizing the agriculture supply chain. On-chain settlement, live market analytics, peer-to-peer tool rentals, and DAO-style governance for elected agri-bodies. Built to run in production, not in a slide deck.
 
 ```
 stack: Next.js · TypeScript · Solidity · Solana · PostgreSQL
@@ -84,22 +97,12 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"The successful warrior is the average man, with laser-like focus."
-                                              — Bruce Lee, Martial Artist
+"Move fast and break things. Unless you are breaking user trust."
+                                              — Mark Zuckerberg, Founder
 ```
 <!--QUOTE_END-->
 
 <sub>rotates daily — sourced from founders, mathematicians, scientists, MMA, and football greats</sub>
-
-<br/>
-
-### `~/contribution_graph`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" width="100%" alt="a snake game rendered from real commit history, eating each contribution square"/>
-</div>
-
-<sub>not decoration — this snake is literally eating my real commit history, one square at a time</sub>
 
 <br/>
 
@@ -128,3 +131,5 @@ Cryptography
 <div align="center">
 <sub><code>&gt; connection closed. session logged. see you in the next commit.</code></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=60&section=footer" width="100%"/>
