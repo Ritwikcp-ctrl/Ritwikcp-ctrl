@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-quote:
-    runs-on: kali-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -21,7 +21,7 @@ jobs:
           node-version: "20"
 
       - name: Update quote in README
-        run: node scripts/update-quote.js
+        run: node Update_quote.js
 
       - name: Commit and push if changed
         run: |
