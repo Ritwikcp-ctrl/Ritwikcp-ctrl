@@ -8,8 +8,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const README_PATH = path.join(__dirname, "..", "README.md");
-const QUOTES_PATH = path.join(__dirname, "quotes.json");
+const README_PATH = path.join(__dirname, "README.md");
+const QUOTES_PATH = path.join(__dirname, "Quotes.json");
 
 function getDayOfYear(date) {
   const start = new Date(date.getFullYear(), 0, 0);
