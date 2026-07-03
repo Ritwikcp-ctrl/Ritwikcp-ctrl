@@ -40,7 +40,7 @@ If it has a market gap, I'll build the thing that fills it.
 **AgriChain** — decentralizing the agriculture supply chain. On-chain settlement, live market analytics, peer-to-peer tool rentals, and DAO-style governance for elected agri-bodies. Built to run in production, not in a slide deck.
 
 ```
-stack: Next.js · TypeScript · Solidity · Solana · PostgreSQL
+stack: Next.js · TypeScript · Solidity  · PostgreSQL
 ```
 
 <br/>
@@ -54,11 +54,12 @@ stack: Next.js · TypeScript · Solidity · Solana · PostgreSQL
 ```
 [ BACKEND ]
 ────────────
-TypeScript
 Node.js
-PostgreSQL
-Next.js / React
-Tailwind CSS
+Express.js
+Next.js (API Routes)
+REST APIs
+Authentication (JWT, OAuth)
+
 ```
 
 </td>
@@ -69,7 +70,6 @@ Tailwind CSS
 ────────────
 Solidity
 Ethereum
-Solana
 Smart Contracts
 Wallet Integration
 ```
@@ -122,9 +122,8 @@ Cryptography
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/YOUR_PROFILE)
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=hackthebox&logoColor=00FF41)](https://app.hackthebox.com/profile/YOUR_ID)
+[![X] (https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=00FF41)](X acc:'https://x.com/SUNNYRAI1374625')
+
 
 </div>
 
