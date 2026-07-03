@@ -21,12 +21,11 @@ how they fail, then build the ones that don't.
 Backend by discipline. Blockchain by conviction.
 Security by obsession. Founder by nature.
 
-If it has an API, I'll map it.
-If it has a network stack, I'll probe it.
-If it has a market gap, I'll build the thing that fills it.
+I have failed almost everythings till now..
+
 
 > status: building AgriChain
-> mode: production, not prototype
+> mode: I practise what i Preach
 ```
 
 <br/>
@@ -157,7 +156,6 @@ Cryptography
 ```
 <!--QUOTE_END-->
 
-<sub>rotates daily — sourced from founders, mathematicians, scientists, MMA, and football greats</sub>
 
 <br/>
 
