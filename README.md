@@ -75,6 +75,61 @@ Wallet Integration
 ```
 
 </td>
+
+<td valign="top" width="33%">
+
+```
+[ DATABASE ]
+────────────
+postgreSQL
+PrismaORM
+Redis
+
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+```
+[ LANGUAGE ]
+────────────
+C++
+JavaScript
+Typescript
+Rust
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+```
+[ TOOLS]
+────────────
+Git
+GitHub
+Docker
+Linux
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+```
+[ LEARNING]
+────────────
+Rust
+Redis
+CI/CD
+Docker
+Kubernetes
+Ws
+```
+
+</td>
+
 <td valign="top" width="33%">
 
 ```
@@ -106,23 +161,14 @@ Cryptography
 
 <br/>
 
-### `~/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=8B949E" height="150"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=8B949E" height="150"/>
-
-</div>
-
 <br/>
 
 ### `~/connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL)
-[![X] (https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=00FF41)](X acc:'https://x.com/SUNNYRAI1374625')
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:su30rai213@gmail.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/SUNNYRAI1374625)
 
 
 </div>
