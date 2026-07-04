@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Move fast and break things. Unless you are breaking user trust."
-                                              — Mark Zuckerberg, Founder
+"Champions keep playing until they get it right."
+                                              — Billie Jean King, Athlete
 ```
 <!--QUOTE_END-->
 
