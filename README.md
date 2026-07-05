@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Champions keep playing until they get it right."
-                                              — Billie Jean King, Athlete
+"You have to fight to reach your dream. You have to sacrifice and work hard for it."
+                                              — Lionel Messi, Footballer
 ```
 <!--QUOTE_END-->
 
