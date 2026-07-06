@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"You have to fight to reach your dream. You have to sacrifice and work hard for it."
-                                              — Lionel Messi, Footballer
+"Talent without working hard is nothing."
+                                              — Cristiano Ronaldo, Footballer
 ```
 <!--QUOTE_END-->
 
