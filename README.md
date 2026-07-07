@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Talent without working hard is nothing."
-                                              — Cristiano Ronaldo, Footballer
+"I've missed more than 9,000 shots in my career, and that is why I succeed."
+                                              — Michael Jordan, Athlete
 ```
 <!--QUOTE_END-->
 
