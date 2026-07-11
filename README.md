@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Hard work beats talent when talent doesn't work hard."
-                                              — Tim Notke, Coach
+"Do not wait for opportunity, create it."
+                                              — Naval Ravikant, Founder & Investor
 ```
 <!--QUOTE_END-->
 
