@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Play long-term games with long-term people."
-                                              — Naval Ravikant, Founder & Investor
+"Move fast and break things. Unless you are breaking user trust."
+                                              — Mark Zuckerberg, Founder, Meta
 ```
 <!--QUOTE_END-->
 
