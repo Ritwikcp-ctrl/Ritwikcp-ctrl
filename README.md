@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"It always seems impossible until it's done."
-                                              — Nelson Mandela, Leader
+"Your most unhappy customers are your greatest source of learning."
+                                              — Bill Gates, Founder, Microsoft
 ```
 <!--QUOTE_END-->
 
