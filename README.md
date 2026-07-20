@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Your most unhappy customers are your greatest source of learning."
-                                              — Bill Gates, Founder, Microsoft
+"If you don't build your dream, someone else will hire you to help build theirs."
+                                              — Dhirubhai Ambani, Founder, Reliance
 ```
 <!--QUOTE_END-->
 
