@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"I have not failed. I've just found 10,000 ways that won't work."
-                                              — Thomas Edison, Inventor & Founder
+"Ideas are easy. Execution is everything."
+                                              — John Doerr, Investor
 ```
 <!--QUOTE_END-->
 
