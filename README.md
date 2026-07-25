@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Ideas are easy. Execution is everything."
-                                              — John Doerr, Investor
+"Risk more than others think is safe. Dream more than others think is practical."
+                                              — Howard Schultz, Founder, Starbucks
 ```
 <!--QUOTE_END-->
 
