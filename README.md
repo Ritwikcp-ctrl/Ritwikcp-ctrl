@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"An expert is a person who has made all the mistakes that can be made in a narrow field."
-                                              — Niels Bohr, Physicist
+"In mathematics you don't understand things, you just get used to them."
+                                              — John von Neumann, Mathematician
 ```
 <!--QUOTE_END-->
 
