@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"In mathematics you don't understand things, you just get used to them."
-                                              — John von Neumann, Mathematician
+"Mathematics is the language in which God has written the universe."
+                                              — Galileo Galilei, Scientist
 ```
 <!--QUOTE_END-->
 
