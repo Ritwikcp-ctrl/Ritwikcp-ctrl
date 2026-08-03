@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"We can only see a short distance ahead, but we can see plenty there that needs to be done."
-                                              — Alan Turing, Mathematician
+"Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."
+                                              — Richard Feynman, Physicist
 ```
 <!--QUOTE_END-->
 
