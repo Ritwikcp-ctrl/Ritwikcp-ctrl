@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"The present is theirs; the future, for which I really worked, is mine."
-                                              — Nikola Tesla, Inventor & Scientist
+"Somewhere, something incredible is waiting to be known."
+                                              — Carl Sagan, Scientist
 ```
 <!--QUOTE_END-->
 
