@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Somewhere, something incredible is waiting to be known."
-                                              — Carl Sagan, Scientist
+"Discipline is the difference between what you want now and what you want most."
+                                              — Khabib Nurmagomedov, MMA Champion
 ```
 <!--QUOTE_END-->
 
