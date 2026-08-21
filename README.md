@@ -151,7 +151,7 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Do not wait for opportunity, create it."
+"Play long-term games with long-term people."
                                               — Naval Ravikant, Founder & Investor
 ```
 <!--QUOTE_END-->
