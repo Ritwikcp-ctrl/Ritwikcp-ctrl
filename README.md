@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"In science, if you know what you are doing, you should not be doing it."
-                                              — Richard Feynman, Physicist
+"Genius is one percent inspiration and ninety-nine percent perspiration."
+                                              — Thomas Edison, Inventor
 ```
 <!--QUOTE_END-->
 
