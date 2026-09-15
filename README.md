@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Nothing in life is to be feared, it is only to be understood."
-                                              — Marie Curie, Scientist
+"The present is theirs; the future, for which I really worked, is mine."
+                                              — Nikola Tesla, Inventor & Scientist
 ```
 <!--QUOTE_END-->
 
