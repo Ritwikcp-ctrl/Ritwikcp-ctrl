@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Discipline is the difference between what you want now and what you want most."
-                                              — Khabib Nurmagomedov, MMA Champion
+"Everybody wants to be a champion until it's time to do what champions do."
+                                              — Georges St-Pierre, MMA Champion
 ```
 <!--QUOTE_END-->
 
