@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Everybody wants to be a champion until it's time to do what champions do."
-                                              — Georges St-Pierre, MMA Champion
+"I don't predict, I guarantee."
+                                              — Conor McGregor, MMA Fighter
 ```
 <!--QUOTE_END-->
 
