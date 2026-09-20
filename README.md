@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"I don't predict, I guarantee."
-                                              — Conor McGregor, MMA Fighter
+"The successful warrior is the average man, with laser-like focus."
+                                              — Bruce Lee, Martial Artist
 ```
 <!--QUOTE_END-->
 
