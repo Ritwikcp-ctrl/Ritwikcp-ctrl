@@ -151,7 +151,7 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"The successful warrior is the average man, with laser-like focus."
+"Absorb what is useful, discard what is not, add what is uniquely your own."
                                               — Bruce Lee, Martial Artist
 ```
 <!--QUOTE_END-->
