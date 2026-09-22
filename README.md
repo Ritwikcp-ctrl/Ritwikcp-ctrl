@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Absorb what is useful, discard what is not, add what is uniquely your own."
-                                              — Bruce Lee, Martial Artist
+"Champions keep playing until they get it right."
+                                              — Billie Jean King, Athlete
 ```
 <!--QUOTE_END-->
 
