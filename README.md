@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"I've missed more than 9,000 shots in my career, and that is why I succeed."
-                                              — Michael Jordan, Athlete
+"Football is not just about scoring goals, it's about winning matches for the team."
+                                              — Pele, Footballer
 ```
 <!--QUOTE_END-->
 
