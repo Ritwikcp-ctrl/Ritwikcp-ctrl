@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Football is not just about scoring goals, it's about winning matches for the team."
-                                              — Pele, Footballer
+"Winning isn't everything, but wanting to win is."
+                                              — Vince Lombardi, Football Coach
 ```
 <!--QUOTE_END-->
 
