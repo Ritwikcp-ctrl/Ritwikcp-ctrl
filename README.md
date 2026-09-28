@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Winning isn't everything, but wanting to win is."
-                                              — Vince Lombardi, Football Coach
+"Hard work beats talent when talent doesn't work hard."
+                                              — Tim Notke, Coach
 ```
 <!--QUOTE_END-->
 
