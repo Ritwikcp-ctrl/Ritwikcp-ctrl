@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"If you don't build your dream, someone else will hire you to help build theirs."
-                                              — Dhirubhai Ambani, Founder, Reliance
+"The people who are crazy enough to think they can change the world are the ones who do."
+                                              — Steve Jobs, Founder, Apple
 ```
 <!--QUOTE_END-->
 
