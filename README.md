@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Risk more than others think is safe. Dream more than others think is practical."
-                                              — Howard Schultz, Founder, Starbucks
+"Stay hungry, stay foolish."
+                                              — Steve Jobs, Founder, Apple
 ```
 <!--QUOTE_END-->
 
