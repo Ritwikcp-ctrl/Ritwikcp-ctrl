@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Stay hungry, stay foolish."
-                                              — Steve Jobs, Founder, Apple
+"The best way to predict the future is to invent it."
+                                              — Alan Kay, Computer Scientist
 ```
 <!--QUOTE_END-->
 
