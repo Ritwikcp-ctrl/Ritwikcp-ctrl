@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"The best way to predict the future is to invent it."
-                                              — Alan Kay, Computer Scientist
+"An expert is a person who has made all the mistakes that can be made in a narrow field."
+                                              — Niels Bohr, Physicist
 ```
 <!--QUOTE_END-->
 
