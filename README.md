@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Mathematics is the language in which God has written the universe."
-                                              — Galileo Galilei, Scientist
+"An equation means nothing to me unless it expresses a thought of God."
+                                              — Srinivasa Ramanujan, Mathematician
 ```
 <!--QUOTE_END-->
 
