@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"An equation means nothing to me unless it expresses a thought of God."
-                                              — Srinivasa Ramanujan, Mathematician
+"Pure mathematics is, in its way, the poetry of logical ideas."
+                                              — Albert Einstein, Physicist
 ```
 <!--QUOTE_END-->
 
