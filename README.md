@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Pure mathematics is, in its way, the poetry of logical ideas."
-                                              — Albert Einstein, Physicist
+"We can only see a short distance ahead, but we can see plenty there that needs to be done."
+                                              — Alan Turing, Mathematician
 ```
 <!--QUOTE_END-->
 
