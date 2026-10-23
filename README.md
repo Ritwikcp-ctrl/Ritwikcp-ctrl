@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."
-                                              — Richard Feynman, Physicist
+"If I have seen further, it is by standing on the shoulders of giants."
+                                              — Isaac Newton, Scientist
 ```
 <!--QUOTE_END-->
 
