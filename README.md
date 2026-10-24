@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"If I have seen further, it is by standing on the shoulders of giants."
-                                              — Isaac Newton, Scientist
+"Nothing in life is to be feared, it is only to be understood."
+                                              — Marie Curie, Scientist
 ```
 <!--QUOTE_END-->
 
