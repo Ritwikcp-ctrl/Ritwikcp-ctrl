@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=170&section=header&text=whoami:%20sunny&fontSize=45&fontColor=00FF41&fontAlignY=45&desc=backend%20engineer%20//%20blockchain%20engineer%20//%20hacker%20//%20entrepreneur&descAlignY=70&descSize=13&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=170&section=header&text=whoami:%20tejas&fontSize=45&fontColor=00FF41&fontAlignY=45&desc=backend%20engineer%20//%20blockchain%20engineer%20//%20hacker%20//%20entrepreneur&descAlignY=70&descSize=13&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
 ```bash
-sunny@root:~$ cat introduction.txt
+tejas@root:~$ cat introduction.txt
 ```
 
 ```
