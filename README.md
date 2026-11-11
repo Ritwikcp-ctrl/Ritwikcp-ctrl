@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Move fast and break things. Unless you are breaking user trust."
-                                              — Mark Zuckerberg, Founder, Meta
+"Your brand is what people say about you when you're not in the room."
+                                              — Jeff Bezos, Founder, Amazon
 ```
 <!--QUOTE_END-->
 
