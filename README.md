@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Your brand is what people say about you when you're not in the room."
-                                              — Jeff Bezos, Founder, Amazon
+"The only way to do great work is to love what you do."
+                                              — Steve Jobs, Founder, Apple
 ```
 <!--QUOTE_END-->
 
