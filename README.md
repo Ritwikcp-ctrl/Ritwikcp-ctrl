@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"The only way to do great work is to love what you do."
-                                              — Steve Jobs, Founder, Apple
+"In science, if you know what you are doing, you should not be doing it."
+                                              — Richard Feynman, Physicist
 ```
 <!--QUOTE_END-->
 
