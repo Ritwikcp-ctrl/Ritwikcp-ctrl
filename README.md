@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"Genius is one percent inspiration and ninety-nine percent perspiration."
-                                              — Thomas Edison, Inventor
+"It always seems impossible until it's done."
+                                              — Nelson Mandela, Leader
 ```
 <!--QUOTE_END-->
 
