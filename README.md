@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"The people who are crazy enough to think they can change the world are the ones who do."
-                                              — Steve Jobs, Founder, Apple
+"It's fine to celebrate success, but it is more important to heed the lessons of failure."
+                                              — Bill Gates, Founder, Microsoft
 ```
 <!--QUOTE_END-->
 
