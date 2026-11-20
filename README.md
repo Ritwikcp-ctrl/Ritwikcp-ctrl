@@ -151,8 +151,8 @@ Cryptography
 
 <!--QUOTE_START-->
 ```
-"It's fine to celebrate success, but it is more important to heed the lessons of failure."
-                                              — Bill Gates, Founder, Microsoft
+"I have not failed. I've just found 10,000 ways that won't work."
+                                              — Thomas Edison, Inventor & Founder
 ```
 <!--QUOTE_END-->
 
